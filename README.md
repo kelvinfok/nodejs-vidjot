@@ -1,4 +1,4 @@
-# CRUD NodeJS App with Authentication
+# NodeJS CRUD App with Local Authentication & Bootstrap
 
 ### Preview
 
